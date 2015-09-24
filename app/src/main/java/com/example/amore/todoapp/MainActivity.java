@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
             todoItems.remove(editItemPosition);
             todoItems.add(editItemPosition, editItemText);
             aToDoAdapter.notifyDataSetChanged();
+            writeItems();
         }
     }
 
