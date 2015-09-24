@@ -8,4 +8,4 @@ Created a simple ToDoApp that can do the following:
 
 4) Persist the data and reload from persisted data.
 
-![alt tag](https://cloud.githubusercontent.com/assets/14814640/10064365/7aa533aa-622c-11e5-9f91-0563a79a19df.gif)
+![alt tag](https://cloud.githubusercontent.com/assets/14814640/10064513/01dc7a3a-622e-11e5-981e-f47884452ada.gif)
